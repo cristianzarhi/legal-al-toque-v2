@@ -27,7 +27,7 @@ export default function DocumentPreview() {
               <div className="bg-gray-100 p-4 rounded-lg h-64 overflow-y-auto text-sm">
                 <p className="font-bold mb-2">ACUERDO DE CONFIDENCIALIDAD</p>
                 <p className="mb-2">
-                  Este Acuerdo de Confidencialidad (el "Acuerdo") se celebra entre [Nombre de la Empresa], con domicilio
+                  Este Acuerdo de Confidencialidad (el &quot;Acuerdo&quot;) se celebra entre [Nombre de la Empresa], con domicilio
                   en [Dirección] (la "Parte Reveladora") y [Nombre del Receptor], con domicilio en [Dirección] (la
                   "Parte Receptora").
                 </p>
@@ -70,7 +70,7 @@ export default function DocumentPreview() {
                 <p className="font-bold mb-2">CONTRATO DE PRESTACIÓN DE SERVICIOS</p>
                 <p className="mb-2">
                   En [Ciudad], a [Fecha], entre [Nombre de la Empresa], con NIF/CIF [Número], domiciliada en
-                  [Dirección], representada por [Nombre del Representante] (en adelante, el "Prestador") y [Nombre del
+                  [Dirección], representada por [Nombre del Representante] (en adelante, el &quot;Prestador&quot;) y [Nombre del
                   Cliente], con NIF/CIF [Número], domiciliado en [Dirección] (en adelante, el "Cliente").
                 </p>
                 <p className="mb-2">1. OBJETO DEL CONTRATO</p>
