@@ -164,8 +164,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-700">
-                  "InstantLegalAI me ahorró miles de euros en honorarios legales. Obtuve un contrato personalizado en
-                  minutos."
+                  &quot;InstantLegalAI me ahorró miles de euros en honorarios legales. Obtuve un contrato personalizado en minutos.&quot;
                 </p>
                 <div className="flex text-yellow-400 mt-2">
                   {[...Array(5)].map((_, i) => (
@@ -187,7 +186,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-700">
-                  "La calidad del documento legal que recibí superó mis expectativas. Muy profesional y completo."
+                  &quot;La calidad del documento legal que recibí superó mis expectativas. Muy profesional y completo.&quot;
                 </p>
                 <div className="flex text-yellow-400 mt-2">
                   {[...Array(5)].map((_, i) => (
@@ -209,8 +208,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-700">
-                  "Proceso sencillo y rápido. El documento se adaptó perfectamente a las necesidades específicas de mi
-                  empresa."
+                  &quot;Proceso sencillo y rápido. El documento se adaptó perfectamente a las necesidades específicas de mi empresa.&quot;
                 </p>
                 <div className="flex text-yellow-400 mt-2">
                   {[...Array(5)].map((_, i) => (
